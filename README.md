@@ -14,8 +14,11 @@ Having installed NPM and Noje.js run the following command in your terminal:
 npm install -g appium
 ```
 Please add ANDROID_HOME to your path directory
+
 ANDROID_HOME = C:\Users\TuNombreDeUsuario\AppData\Local\Android\Sdk
+
 %ANDROID_HOME%\tools
+
 %ANDROID_HOME%\platform-tools
 
 
