@@ -29,7 +29,7 @@ Then, please install Appium doctor which is a tool to check the configuration on
 npm install -g @appium/doctor
 appium-doctor --android
 ```
-Doenload and install the following tool https://github.com/appium/appium-inspector/releases
+Download and install the following tool https://github.com/appium/appium-inspector/releases
 
 ## Initialization
 
